@@ -1,0 +1,4 @@
+name: BlockDecay
+version: ${project.version}
+author: LaxWasHere
+main: net.poweredbyawesome.blockdecay.BlockDecay
